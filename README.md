@@ -1,4 +1,3 @@
-Assignment: Class Participation # 5
 Program Name: Fitness Challenge calculator
 Code:
 ![image](https://user-images.githubusercontent.com/89434892/185199772-47204c4c-89ca-44f4-958b-aeb0ed3af0c5.png)
